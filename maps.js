@@ -1,10 +1,10 @@
 const emojis={
   '-':' ',
-  'O':'ðŸšª',
-  'X':'ðŸ’£',
-  'I':'ðŸŽ',
-  'PLAYER':'☠',
-  'BOMB_COLLISION':'🎇',
+  'O':'🚪',
+  'X':'💣',
+  'I':'🎁',
+  'PLAYER':'💀',
+  'BOMB_COLLISION':'🔥',
   'GAME_OVER':'👎🏼',
   'WIN':'🏆',
 };
